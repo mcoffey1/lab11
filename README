@@ -1,0 +1,4 @@
+uses recursion to illustrate various fractals.
+Click on the window to cycle through the fractals.
+
+*Note this program relies on the X11 graphics API. It must be installed to run on this program.
